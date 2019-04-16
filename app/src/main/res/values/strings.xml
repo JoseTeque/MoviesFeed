@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesFeed</string>
+    <string name="txtNameMovie">Name Movie</string>
+    <string name="txtPaisMovie">Pais Movie</string>
+</resources>
